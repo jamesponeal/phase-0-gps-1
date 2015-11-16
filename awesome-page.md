@@ -5,4 +5,4 @@ Some text here!
 **This is bold..**
 [Visit DBC!](http://devbootcamp.com/)
 ![Working Together](https://github.com/jamesponeal/phase-0-gps-1/blob/master/GPS1.1)
-Making another change in master branch to create a conflict.
+This is my change to create a conflict.
