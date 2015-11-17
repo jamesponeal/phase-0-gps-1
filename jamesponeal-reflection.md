@@ -15,4 +15,4 @@ What still confuses you about git?
 Right now I think that I have a good handle on git, but I'm sure as I get into working on more complicated things with many files and collaborators I will be confused by some things.
 
 How was your first experience of pairing in a GPS?
-It was really good.  It went really smooth and I'm looking forward to the rest of the peer-pairing and GPS sessions.
+It was really good and helped me better understand git and GitHub.  It went really smooth and I'm looking forward to the rest of the peer-pairing and GPS sessions.
